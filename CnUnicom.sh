@@ -13,7 +13,7 @@ username="$1"
 password="$2"
 
 # 联通APP版本
-unicom_version=8.0100
+unicom_version=8.8.2
 
 # deviceId: 随机IMEI
 deviceId=$(shuf -i 123456789012345-987654321012345 -n 1)
